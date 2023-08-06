@@ -1,0 +1,1 @@
+# CS3621 Data Mining Assignment 01 - Pattern Mining
